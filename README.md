@@ -6,7 +6,7 @@
 [#skpassegna](https://skpassegna.me)
 
 ## Screenshot
-[Screenshot](https://i.imgur.com/E1kM1EI.png)
+![Screenshot](https://i.imgur.com/E1kM1EI.png)
 
 > How many color can be generate with rgb ?
 > *16777216* colors !
